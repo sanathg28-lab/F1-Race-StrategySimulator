@@ -1,4 +1,5 @@
-f1-Race-Strategy-Simulator
+f1-Race-Strategy-Simulator:
+
 A Java-based Formula 1 Race Strategy Simulator designed to model essential components of an F1 racing environment using Object-Oriented Programming.
 
 Features:
